@@ -1,5 +1,18 @@
-body
-{
-background-color: antiquewhite;
+ul{
+    list-style-type: none;
+    border: 1px solid #e7e7e7;
+    background-color: #f3f3f3;
+    overflow: hidden;
 
+}
+li{
+float:left;
+}
+
+.nav-right{float:right;
+}
+
+li a{
+    display: block;
+    color
 }
